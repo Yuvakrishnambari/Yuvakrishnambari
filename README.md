@@ -1,17 +1,25 @@
 ## Hi there 👋
 
-I’m YUVA NARASIMHA RAO NAMBARI ,a Data Science & Statistical Learning postgraduate passionate about data science,machine learning, predictive analytics, and turning data into meaningful insights.
+Hey there! I’m Yuva Narasimha Rao Nambari
 
-I like to do work in Building data-driven projects using Python, R, SQL, and Spark
+A Data Science & Statistical Learning postgraduate focused on dataanalytics,ML, predictive modelling and big-data engineering. I enjoy turning raw data into valuable insights and building scalable machine-learning systems.
 
-Exploring ML model optimisation and big-data processing
+What I Work On
 
-Developing visual analytics dashboards for insights and storytelling
+Data-driven projects using Python, R, SQL, Spark
 
-Tools & Technologies I use
+ML model optimization and performance improvement
 
-Python | R | SQL | Power BI | Tableau | Apache Spark | Databricks | TensorFlow | Scikit-learn | Pandas | NumPy | Matplotlib | GitHub
+Big-data processing on Apache Spark & Databricks
 
-Email: yuvanarasimharao@gmail.com
+Insightful dashboards with Power BI & Tableau
 
-LinkedIn: linkedin.com/in/yuva-narasimha-rao-nambari
+Tech Stack
+
+Python • R • SQL • Power BI • Tableau • Apache Spark • Databricks • TensorFlow • Scikit-learn • Pandas • NumPy • Matplotlib • GitHub
+
+Contact
+
+yuvanarasimharao@gmail.com
+
+linkedin.com/in/yuva-narasimha-rao-nambari
