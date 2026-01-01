@@ -12,8 +12,6 @@ Tools & Technologies I use
 
 Python | R | SQL | Power BI | Tableau | Apache Spark | Databricks | TensorFlow | Scikit-learn | Pandas | NumPy | Matplotlib | GitHub
 
-How to reach me
-
 Email: yuvanarasimharao@gmail.com
 
 LinkedIn: linkedin.com/in/yuva-narasimha-rao-nambari
