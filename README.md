@@ -1,16 +1,19 @@
 ## Hi there 👋
 
-<!--
-**Yuvakrishnambari/Yuvakrishnambari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m YUVA NARASIMHA RAO NAMBARI ,a Data Science & Statistical Learning postgraduate passionate about data science,machine learning, predictive analytics, and turning data into meaningful insights.
 
-Here are some ideas to get you started:
+I like to do work in Building data-driven projects using Python, R, SQL, and Spark
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Exploring ML model optimisation and big-data processing
+
+Developing visual analytics dashboards for insights and storytelling
+
+Tools & Technologies I use
+
+Python | R | SQL | Power BI | Tableau | Apache Spark | Databricks | TensorFlow | Scikit-learn | Pandas | NumPy | Matplotlib | GitHub
+
+How to reach me
+
+Email: yuvanarasimharao@gmail.com
+
+LinkedIn: linkedin.com/in/yuva-narasimha-rao-nambari
